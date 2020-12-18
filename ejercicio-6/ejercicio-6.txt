@@ -1,0 +1,24 @@
+var valor1,
+    valor2,
+    sumatoria;
+
+ING valor1
+ING valor2
+sumatoria = valor1 % valor2
+
+MOSTRAR 'El resto de sumatorias de los numeros es ' + sumatoria
+
+
+
+------------------------------------------------------------------------------------------------
+
+var valor1,
+    valor2,
+    sumatoria;
+
+valor1= parseInt(prompt('ingrese el primer valor '))
+valor2= parseInt(prompt('ingrese el segundo valor'))
+
+sumatoria = valor1 % valor2
+
+alert('El resto de sumatorias de los numeros es ' + sumatoria )

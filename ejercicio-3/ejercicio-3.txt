@@ -1,0 +1,13 @@
+var ladoDerecho
+var ladoIzquierdo
+var ladoInferior
+var perimetro
+
+
+ING ladoDerecho
+ING ladoIzquierdo
+ING ladoInferior
+
+perimetro= ladoDerecho + ladoInferior + ladoInferior
+
+MOSTRAR 'El perimetro de triangulo es' + perimetro

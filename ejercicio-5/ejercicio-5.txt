@@ -1,0 +1,12 @@
+var ladoSuperior,
+    ladoDerecho,
+    perimetro,
+    area;
+
+ING ladoSuperior
+ING ladoDerecho
+
+perimetro= 2 * (ladoSuperior + ladoDerecho)
+area= ladoSuperior ** ladoDerecho
+
+MOSTRAR 'El perimetro del rectangulo es ' + perimetro ' y el cuadrado del area es ' + area

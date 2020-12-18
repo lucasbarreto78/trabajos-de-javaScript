@@ -1,0 +1,17 @@
+var diametro,
+    perimetro,
+    area,
+    pi = 3.14;
+
+ING diametro
+
+radio = diametro / 2
+perimetro = diametro * pi
+area = pi * (radio ** 2)
+
+MOSTRAR 'el perimetro de un ciculo es: '+ perimetro
+MOSTRAR 'El area de un circulo es:' + area
+
+
+
+

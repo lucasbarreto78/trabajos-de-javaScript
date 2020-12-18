@@ -1,0 +1,13 @@
+var ladoDeUnCuadrado,
+    perimetro,
+    area;
+
+ING LadoDeUnCuadrado
+
+
+perimetro = ladoDeUnCuadrado * 4
+area = ladoDeUnCuadrado ** 2
+
+MOSTRAR 'el perimetro de cuadrado es ' + perimetro + ' y el area es ' + area
+
+
